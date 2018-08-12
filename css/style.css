@@ -1,5 +1,6 @@
 body {
   width: 100%;
+  
 }
 body:before,
 body:after {
@@ -8,6 +9,9 @@ body:after {
 }
 body:after {
   clear: both;
+}
+image{
+  box-shadow: box-shadow:0px 0px 8px #f00;
 }
 html,
 body,
